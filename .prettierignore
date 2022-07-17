@@ -5,6 +5,15 @@ node_module
 package-lock.json
 tsconfig.json
 
+.prettierrc.js 65ms
+.watchmanconfig 4ms
+app.json 3ms
+App.tsx 19ms
+babel.config.js 4ms
+index.js 9ms
+metro.config.js 8ms
+package.json 4ms
+
 **/*.md
 **/*.yml
 **/*.cs*
